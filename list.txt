@@ -1,0 +1,3 @@
+film Avatar JamesCameron 12.5 great!
+film RoberZemeckis ForrestGump 20.0 wonderfull
+soft QtFramework NokiaGroup 150 usefull
